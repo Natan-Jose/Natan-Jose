@@ -4,7 +4,11 @@
 
 ![José GitHub stats](https://github-readme-stats.vercel.app/api?username=Natan-Jose&theme=ambient_gradient)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natan-Jose&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natan-Jose&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 <div style="display: inline_block">
